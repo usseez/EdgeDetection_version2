@@ -1,0 +1,3 @@
+/mnt/d/cstudy/EdgeDetection/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/cstudy/EdgeDetection/build/CMakeFiles/edit_cache.dir
+/mnt/d/cstudy/EdgeDetection/build/CMakeFiles/EdgeDetection.dir
